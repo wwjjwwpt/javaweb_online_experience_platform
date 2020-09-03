@@ -27,6 +27,11 @@ sudo docker run hello-world
 
 # 部署实验空间和Dockerfile
 ```
-git clone 
+git clone git@github.com:wwjjwwpt/javaspring_docekr.git #部署空间
 ```
+修改view中文件位置，可调整Dockerfile中的配置
 
+# 运行django
+```
+sudo nuhuo python3 manage runserver 0.0.0.0:8080 &
+```
