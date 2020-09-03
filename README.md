@@ -6,6 +6,8 @@ Run And Edite JavaWeb online
 Docker version 19.03.12</br>
 Python 3.6.9</br>
 Django 2.0</br>
+java11</br>
+maven 3.5.3</br>
 
 # 安装docker
 ```
@@ -24,3 +26,7 @@ sudo docker run hello-world
 ```
 
 # 部署实验空间和Dockerfile
+```
+git clone 
+```
+
