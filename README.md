@@ -35,3 +35,10 @@ git clone git@github.com:wwjjwwpt/javaspring_docekr.git #部署空间
 ```
 sudo nuhuo python3 manage runserver 0.0.0.0:8080 &
 ```
+
+# 主平台部署
+```
+git clone git@github.com:wwjjwwpt/javaspring_platform.git
+cd javaspring_platform
+sudo nuhup python3 manage.py runserver 0.0.0.0:8000 &
+```
